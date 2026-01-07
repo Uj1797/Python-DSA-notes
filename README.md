@@ -1,2 +1,2 @@
 # Python-DSA-notes
-Thought about creating basic dsa notes, will add more whenever got some time.
+Thought about creating basic dsa notes, will add more whenever i got some free time.
