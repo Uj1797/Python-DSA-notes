@@ -126,18 +126,4 @@ print(calc.add(5, 3))         # 8 (method)
 #   - Use methods to make objects DO things
 #   - Each object has independent copies of its data
 #   - Methods work on the object's own attributes (self.x)
-# ---------------------------------------------------------
-
-##STATIC METHODS
-# ---------------------------------------------------------
-# Static methods are methods that belong to a class rather than an instance of the class.
-# They do not have access to the instance (self) or class (cls) variables.
-# They are defined using the @staticmethod decorator.
-class MathOperations:
-    @staticmethod
-    def add(a, b):
-        return a + b
-
-    @staticmethod
-    def multiply(a, b):
-        return a * b                                          
+# ---------------------------------------------------------                                          
